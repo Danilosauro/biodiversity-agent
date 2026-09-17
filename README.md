@@ -48,7 +48,7 @@ As operações críticas são executadas por funções determinísticas em Pytho
 
 O pipeline segue o fluxo:
 
-```text
+
 Dataset CSV
      ↓
 Bronze
@@ -67,7 +67,7 @@ Validação
      ↓
 Métricas de qualidade
      ↓
-Dashboard / Relatórios  
+Dashboard / Relatórios´
 
 
 
