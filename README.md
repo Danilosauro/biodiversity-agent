@@ -73,6 +73,8 @@ Dashboard / Relatórios
 
 
 ## 4. Como usar 
+Versão Python mínima necessária: 
+3.12.3
 
 Instale as bibliotecas necessárias:
 
