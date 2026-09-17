@@ -1,0 +1,13 @@
+id_registro,nome_popular,data_observacao,latitude,longitude,observador,ambiente,quantidade
+OBS001,onça-pintada,15/01/2025,12°58'17"S,38°30'05"W,João Silva,Mata Atlântica,1
+OBS002,anta,18/01/2025,12°58'48"S,38°30'36"W,Maria Santos,Mata Atlântica,2
+OBS003,onça-pintada,02/02/2025,13°00'36"S,38°31'12"W,João Silva,Mata Atlântica,1
+OBS004,gambá-de-orelha-branca,10/02/2025,12°57'00"S,38°29'24"W,Carlos Souza,Área urbana,3
+OBS005,carcará,15/02/2025,12°56'24"S,38°28'48"W,Maria Santos,Cerrado,1
+OBS006,tamanduá-bandeira,20/02/2025,12°55'12"S,38°27'36"W,João Silva,Cerrado,1
+OBS007,capivara,25/02/2025,12°54'36"S,38°26'24"W,Carlos Souza,Zona úmida,4
+OBS008,sagui-de-tufo-branco,03/03/2025,12°53'24"S,38°25'48"W,Maria Santos,Mata Atlântica,5
+OBS009,tatu-bola,10/03/2025,12°52'48"S,38°24'36"W,João Silva,Caatinga,1
+OBS010,beija-flor-tesoura,18/03/2025,12°51'36"S,38°23'24"W,Carlos Souza,Mata Atlântica,2
+OBS011,raposa-do-campo,25/03/2025,12°50'24"S,38°22'12"W,Maria Santos,Cerrado,1
+OBS012,lobo-guará,02/04/2025,12°49'12"S,38°21'00"W,João Silva,Cerrado,1

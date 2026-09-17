@@ -1,0 +1,17 @@
+# Biodiversity Agent — runtime dependencies
+#
+# External prerequisite: install Ollama separately and download the model with:
+#   ollama pull llama3.2
+
+# LLM planning agent
+langchain>=1.0,<2.0
+langchain-ollama>=1.0,<2.0
+
+# Data processing and Darwin Core pipeline
+pandas>=2.2,<4.0
+pyarrow>=17,<25.0
+pydantic>=2.8,<3.0
+
+# Streamlit dashboard
+streamlit>=1.40,<2.0
+plotly>=5.24,<7.0
