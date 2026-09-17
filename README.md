@@ -18,6 +18,15 @@ O projeto combina um **LLM local** com processamento determinístico em Python p
 
 A arquitetura foi desenvolvida para evitar que o LLM execute diretamente operações críticas sobre os dados.
 
+Definições do projeto:
+
+| Conceito                      | No Biodiversity Agent                                                      | Função                                                     |
+| ----------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| **Skill**                     | `src/agent/agent.py` + instruções do agente                                | Ensina o agente a executar uma tarefa específica           |
+| **Harness**                   | `main.py`                                                                  | Inicia, acompanha, verifica e registra a execução          |
+| **Ferramenta determinística** | `silver.py`, `coordinates.py`, `taxonomy.py`, `validator.py`, `metrics.py` | Executa operações reproduzíveis sem depender do LLM        |
+| **Orquestração**              | Fluxo implementado em `main.py`                                            | Define a sequência e as condições de passagem entre etapas |
+
 ---
 
 ## 2. Papel do LLM no projeto
