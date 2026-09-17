@@ -67,7 +67,8 @@ Validação
      ↓
 Métricas de qualidade
      ↓
-Dashboard / Relatórios  
+Dashboard / Relatórios
+```
 
 
 
